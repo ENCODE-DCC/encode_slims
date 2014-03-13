@@ -1,0 +1,47 @@
+count	biosample term_name	term_id	is_a	part_of	transformed_from	comments
+2	A172	EFO:0002101	glioblastoma cell line	brain		
+2	A375	EFO:0002103	melanoma cell line	skin of body		
+1	A673	EFO:0002106	rhabdomyosarcoma cell line	muscle		
+2	ACC112	NTR:0000556	embryonal teratocarcinoma	testes		
+1	adipose tissue	UBERON:0001013		adipose tissue		
+8	BG02-hESC	NTR:0001093	stem cell	embryonic structure		
+2	bipolar spindle neuron	NTR:0000560	neuron	nervous system		
+2	Caki2	EFO:0002150	renal carcinoma cell line	kidney		
+1	Centroblast	NTR:0001233	B cell	blood		
+1	COLO829	EFO:0002140	melanoma cell line	skin of body		
+1	D341Med	EFO:0002157	medulloblastoma cell line	brain		
+1	D721Med	NTR:0001049	medulloblastoma cell line	brain		
+2	Daoy	NTR:00001201	medulloblastoma cell line	brain		
+7	definitive endoderm	UBERON:0005439	endoderm	embryonic structure		
+6	DOHH2	EFO:0002167	lymphoma	blood	B cell	
+4	erythroblast	CL:0000765		blood		
+2	fibroblast of arm	NTR:0000559	fibroblast	skin of body		
+2	G401	EFO:0002179	rhabdomyosarcoma cell line	kidney		
+1	GM19239	EFO:0002789	lymphoblastoid cell line	blood	B cells	
+3	H4	EFO:0002184	neuroglioma cell line	brain		
+1	H54	EFO:0002782	glioblastoma cell line	brain	glial cell	
+3	H9-hESC	NTR:0000838	stem cell	embryonic structure		
+2	hepatic endoderm	NTR:0000561		liver		
+1	HPDE6-E6E7	NTR:0000929	pancreatic duct cell line	pancreas		
+2	HT-29	EFO:0001193	adenocarcinoma cell line	large intestine	colonic epithelium	
+1	HTR-8/SVneo	NTR:0000957	trophoblast	embryonic structure		
+5	Karpas-422	NTR:0000552	lymphoma	blood	B cell	
+3	LOUCY	NTR:0000549	T-cell leukemia cell line	blood	T cells	
+2	MG63	EFO:0002234	osteosarcoma cell line	bone	osteoblast	
+1	MM.1S	NTR:0000558	multiple myeloma cell line	blood	B cell	
+1	naive blood-derived CD4-positive alpha-beta T cell	NTR:0000738	T cell	blood		
+	NTR					
+6	Oci-Ly-1	NTR:0000553	lymphoma	blood		
+3	Oci-Ly-3	NTR:0000555	lymphoma	blood		
+9	Oci-Ly-7	NTR:0000554	lymphoma	blood		
+1	Parathyroid adenoma	NTR:0001226		parathyroid		
+	PC-3					
+	penis					
+	peripheral blood					
+	RPWE-1					
+	SJSA1					
+	SKNSH					
+	SUDHL6					
+	U2OS					
+	UCH-1					
+	urothelium cell line					
