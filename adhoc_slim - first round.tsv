@@ -2,7 +2,7 @@ expt count	term_name	term_id	organism	is_a	part_of	transformed_from	comments
 302	K562	EFO:0002067	human	myeloid leukemia cell line	blood	erythroblasts	
 197	GM12878	EFO:0002784	human	lymphoblastoid cell line	blood	B cells	
 156	HepG2	EFO:0001187	human	carcinoma cell line	liver	hepatocyte	
-128	HeLa-S3	EFO:0002791	human	adenocarcinoma cell line	uterine cervix	cervical epithelium	
+128	HeLa-S3	EFO:0002791	human	adenocarcinoma cell line	uterus	cervical epithelium	
 118	H1-hESC	EFO:0003042	human	stem cell	embryonic structure		
 113	A549	EFO:0001086	human	adenocarcinoma cell line	lung	alveolar epithelium	
 98	MCF-7	EFO:0001203	human	adenocarcinoma cell line	breast	mammary epithelium	
@@ -44,7 +44,7 @@ expt count	term_name	term_id	organism	is_a	part_of	transformed_from	comments
 8	striated muscle cell	CL:0000737	human	skeletal myocyte	muscle		
 7	BE2C	EFO:0002114	human	neuroblastoma cell line	brain	neuron	
 7	Jurkat	EFO:0002796	human	T-cell leukemia cell line	blood	T cells	
-7	neural cell	CL:0002319	human				in vitro differentiated, so no organ
+7	neural cell	CL:0002319	human	in vitro differentiated cell			in vitro differentiated, so no organ
 7	U-87 MG	EFO:0005237	human	astrocytoma cell line	brain	astrocyte	
 6	bronchoalveolar stem cell	BTO:0001245	human	stem cell	lung		
 6	GM12812	EFO:0001155	human	lymphoblastoid cell line	blood	B cells	
@@ -88,7 +88,7 @@ expt count	term_name	term_id	organism	is_a	part_of	transformed_from	comments
 3	GM18507	EFO:0002787	human	lymphoblastoid cell line	blood	B cells	
 3	GM19238	EFO:0002788	human	lymphoblastoid cell line	blood	B cells	
 3	mesenchymal stem cell of adipose	CL:0002570	human	stem cell	adipose tissue		
-3	OVCAR-3	EFO:0003061	human	ovarian carcinoma cell line	ovary	ovarian epithelium	
+3	OVCAR-3	EFO:0003061	human	ovarian carcinoma cell line	gonad	ovarian epithelium	
 3	subcutaneous preadipocyte	CL:0002583	human	fibroblast	adipose tissue		
 3	Th2-cell	NTR:0000893	human	helper T cell	blood		should be renamed T helper 2
 2	8988T	NTR:0000890	human	pancreatic adenocarcinoma cell line	pancreas		
@@ -105,7 +105,7 @@ expt count	term_name	term_id	organism	is_a	part_of	transformed_from	comments
 2	GM20000	NTR:0000928	human	lymphoblastoid cell line	blood	B cells	
 2	hematopoietic cell	BTO:0000574	human		blood		
 2	Ishikawa	NTR:0000885	human	endometrial carcinoma	uterus	endometrial epithelium	
-2	notochord	EFO:0004389	human		ebryonic structure		I can't find this in EFO.  I think it should be UBERON:0002328
+2	notochord	EFO:0004389	human		embryonic structure		I can't find this in EFO.  I think it should be UBERON:0002328
 2	pancreatic duct	NTR:0000929	human	pancreatic duct cell line	pancreas		
 2	periodontal ligament fibroblast	NTR:0000935	human	fibroblast	skeletal ligament		
 2	RAJI cell	EFO:0002324	human	Burkitt's lymphoma cell line	blood	B cells	
@@ -139,16 +139,16 @@ expt count	term_name	term_id	organism	is_a	part_of	transformed_from	comments
 1	M059J	NTR:0001053	human	glioblastoma cell line	brain	glial cell	
 1	naive B cell	CL:0000788	human	B cell	blood		
 1	NCI-H460	EFO:0003044	human	carcinoma cell line	lung	lung epithelial cell	
-1	olfactory neurospheres	NTR:0000982	human				
-1	prostate gland epithelium	EFO:0002323	human				
-1	pulmonary interstitial fibroblast	CL:0002241	human				
-1	RCC_7860	NTR:0000962	human				
-1	RPMI-7951 cell	NTR:0000900	human				
-1	SJCRH30	NTR:0000557	human				
-1	SK-MEL-5	NTR:0000570	human	melanoma cell line	skin		
+1	olfactory neurospheres	NTR:0000982	human		olfactory neuroepithelium		
+1	prostate gland epithelium	EFO:0002323	human	epithelial cell	prostate gland		
+1	pulmonary interstitial fibroblast	CL:0002241	human	fibroblast	lung		
+1	RCC_7860	NTR:0000962	human	adenocarcinoma cell line	kidney		
+1	RPMI-7951 cell	NTR:0000900	human	melanoma cell line	skin of body		
+1	SJCRH30	NTR:0000557	human	rhabdomyosarcoma cell line	muscle		
+1	SK-MEL-5	NTR:0000570	human	melanoma cell line	skin of body		
 1	SK-N-DZ	NTR:0000571	human	neuroblastoma cell line	brain	neuron	
-1	T-helper 0 cell	NTR:0000743	human				
-1	TTC549	NTR:0000984	human	rhabdomyosarcoma cell line	liver		
-1	umbilical cord blood cell	NTR:0000888	human				
-1	uterine smooth muscle cell	CL:0002601	human				
-1		NTR:0000837	human				
+1	T-helper 0 cell	NTR:0000743	human	helper T cell	blood		
+1	TTC549	NTR:0000984	human	rhabdoid tumor cell line	liver		
+1	umbilical cord blood cell	NTR:0000888	human		blood		
+1	uterine smooth muscle cell	CL:0002601	human		muscle		
+1	H7-hESC	NTR:0000837	human	stem cell	embryonic structure		
