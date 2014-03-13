@@ -1,4 +1,4 @@
-expt count	term_name	term_id	organism	is_a	part_of	transformed_from	comments
+count	term_name	term_id	organism	is_a	part_of	transformed_from	comments
 2	hematopoietic cell	BTO:0000574	human		blood		
 6	bronchoalveolar stem cell	BTO:0001245	human	stem cell	lung		
 4	myoblast	CL:0000056	human		muscle		
@@ -104,7 +104,7 @@ expt count	term_name	term_id	organism	is_a	part_of	transformed_from	comments
 4	melanocyte	NTR:0000886	human	epidermal melanocyte	skin of body		
 5	WERI-Rb-1	NTR:0000887	human	retinoblastoma cell line	retina		
 1	umbilical cord blood cell	NTR:0000888	human		blood		
-4	LHCN-M2 cell	NTR:0000889	human	skeletal myoblast	muscle	myosatellite cells	
+4	LHCN-M2 cell	NTR:0000889	human	skeletal myoblast	skeletal muscle	myosatellite cells	
 2	8988T	NTR:0000890	human	pancreatic adenocarcinoma cell line	pancreas		
 5	brain microvascular endothelial cell	NTR:0000891	human		blood vessel		
 4	myometrium	NTR:0000892	human		muscle		
@@ -148,53 +148,53 @@ expt count	term_name	term_id	organism	is_a	part_of	transformed_from	comments
 1	M059J	NTR:0001053	human	glioblastoma cell line	brain	glial cell	
 1	breast	UBERON:0000310	human		breast		
 4	uterus	UBERON:0000995	human		uterus		
-5	skeletal muscle tissue	UBERON:0001134	human	skeletal myocyte	muscle		
+5	skeletal muscle tissue	UBERON:0001134	human	skeletal myocyte	skeletal muscle		
 1	endometrium	UBERON:0001295	human		uterus		
 4	cardiac mesoderm	UBERON:0007005	human	in vitro differentiated cell	heart		
 1	germinal center	UBERON:0010754	human		blood		
-2	A172	EFO:0002101	glioblastoma cell line	brain		
-2	A375	EFO:0002103	melanoma cell line	skin of body		
-1	A673	EFO:0002106	rhabdomyosarcoma cell line	muscle		
-2	ACC112	NTR:0000556	embryonal teratocarcinoma	testes		
-1	adipose tissue	UBERON:0001013		adipose tissue		
-8	BG02-hESC	NTR:0001093	stem cell	embryonic structure		
-2	bipolar spindle neuron	NTR:0000560	neuron	nervous system		
-2	Caki2	EFO:0002150	renal carcinoma cell line	kidney		
-1	Centroblast	NTR:0001233	B cell	blood		
-1	COLO829	EFO:0002140	melanoma cell line	skin of body		
-1	D341Med	EFO:0002157	medulloblastoma cell line	brain		
-1	D721Med	NTR:0001049	medulloblastoma cell line	brain		
-2	Daoy	NTR:00001201	medulloblastoma cell line	brain		
-7	definitive endoderm	UBERON:0005439	endoderm	embryonic structure		
-6	DOHH2	EFO:0002167	lymphoma	blood	B cell	
-4	erythroblast	CL:0000765		blood		
-2	fibroblast of arm	NTR:0000559	fibroblast	skin of body		
-2	G401	EFO:0002179	rhabdomyosarcoma cell line	kidney		
-1	GM19239	EFO:0002789	lymphoblastoid cell line	blood	B cells	
-3	H4	EFO:0002184	neuroglioma cell line	brain		
-1	H54	EFO:0002782	glioblastoma cell line	brain	glial cell	
-3	H9-hESC	NTR:0000838	stem cell	embryonic structure		
-2	hepatic endoderm	NTR:0000561		liver		
-1	HPDE6-E6E7	NTR:0000929	pancreatic duct cell line	pancreas		
-2	HT-29	EFO:0001193	adenocarcinoma cell line	large intestine	colonic epithelium	
-1	HTR-8/SVneo	NTR:0000957	trophoblast	embryonic structure		
-5	Karpas-422	NTR:0000552	lymphoma	blood	B cell	
-3	LOUCY	NTR:0000549	T-cell leukemia cell line	blood	T cells	
-2	MG63	EFO:0002234	osteosarcoma cell line	bone	osteoblast	
-1	MM.1S	NTR:0000558	multiple myeloma cell line	blood	B cell	
-1	naive blood-derived CD4-positive alpha-beta T cell	NTR:0000738	T cell	blood		
-	NTR					
-6	Oci-Ly-1	NTR:0000553	lymphoma	blood		
-3	Oci-Ly-3	NTR:0000555	lymphoma	blood		
-9	Oci-Ly-7	NTR:0000554	lymphoma	blood		
-1	Parathyroid adenoma	NTR:0001226		parathyroid		
-	PC-3					
-	penis					
-	peripheral blood					
-	RPWE-1					
-	SJSA1					
-	SKNSH					
-	SUDHL6					
-	U2OS					
-	UCH-1					
-	urothelium cell line					
+2	A172	EFO:0002101	human	glioblastoma cell line	brain		
+2	A375	EFO:0002103	human	melanoma cell line	skin of body		
+1	A673	EFO:0002106	human	rhabdomyosarcoma cell line	muscle		
+2	ACC112	NTR:0000556	human	embryonal teratocarcinoma	testes		
+1	adipose tissue	UBERON:0001013	human		adipose tissue		
+8	BG02-hESC	NTR:0001093	human	stem cell	embryonic structure		
+2	bipolar spindle neuron	NTR:0000560	human	neuron	nervous system		
+2	Caki2	EFO:0002150	human	renal carcinoma cell line	kidney		
+1	Centroblast	NTR:0001233	human	B cell	blood		
+1	COLO829	EFO:0002140	human	melanoma cell line	skin of body		
+1	D341Med	EFO:0002157	human	medulloblastoma cell line	brain		
+1	D721Med	NTR:0001049	human	medulloblastoma cell line	brain		
+2	Daoy	NTR:00001201	human	medulloblastoma cell line	brain		
+7	definitive endoderm	UBERON:0005439	human	endoderm	embryonic structure		
+6	DOHH2	EFO:0002167	human	lymphoma cell line	blood	B cell	
+4	erythroblast	CL:0000765	human		blood		
+2	fibroblast of arm	NTR:0000559	human	fibroblast	skin of body		
+2	G401	EFO:0002179	human	rhabdomyosarcoma cell line	kidney		
+1	GM19239	EFO:0002789	human	lymphoblastoid cell line	blood	B cells	
+3	H4	EFO:0002184	human	neuroglioma cell line	brain		
+1	H54	EFO:0002782	human	glioblastoma cell line	brain	glial cell	
+3	H9-hESC	NTR:0000838	human	stem cell	embryonic structure		
+2	hepatic endoderm	NTR:0000561	human		liver		
+1	HPDE6-E6E7	NTR:0000929	human	pancreatic duct cell line	pancreas		
+2	HT-29	EFO:0001193	human	adenocarcinoma cell line	large intestine	colonic epithelium	
+1	HTR-8/SVneo	NTR:0000957	human	trophoblast	embryonic structure		
+5	Karpas-422	NTR:0000552	human	lymphoma	blood	B cell	
+3	LOUCY	NTR:0000549	human	T-cell leukemia cell line	blood	T cells	
+2	MG63	EFO:0002234	human	osteosarcoma cell line	bone	osteoblast	
+1	MM.1S	NTR:0000558	human	multiple myeloma cell line	blood	B cell	
+1	naive blood-derived CD4-positive alpha-beta T cell	NTR:0000738	human	T cell	blood		
+	NTR		human				
+6	Oci-Ly-1	NTR:0000553	human	lymphoma cell line	blood		
+3	Oci-Ly-3	NTR:0000555	human	lymphoma cell line	blood		
+9	Oci-Ly-7	NTR:0000554	human	lymphoma cell line	blood		
+1	Parathyroid adenoma	NTR:0001226	human		parathyroid		
+3	PC-3	EFO:0002074	human	adenocarcinoma cell line	prostate gland	prostate epithelium	
+1	penis	UBERON:0000989	human				
+1	peripheral blood	NTR:0000903	human		blood		
+1	RPWE-1	NTR:0001052	human	epithelial cell line	prostate gland		
+2	SJSA1	EFO:0002330	human	osteosarcoma cell line	bone		
+1	SKNSH	EFO:0003072	human	neuroblastoma cell line	brain	neuron	need to fix this term to SK-N-SH
+5	SUDHL6	EFO:0002357	human	lymphoma	blood	B cell	
+1	U2OS	EFO:0002869	human	osteosarcoma cell line	bone	osteoblast	
+1	UCH-1	EFO:0004389	human	chordoma cell line	bone	notochord	
+2	urothelium cell line	NTR:0000961	human	urothelial cell	bladder		
