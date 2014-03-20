@@ -1,0 +1,199 @@
+term_name	term_id	part_of
+adipose tissue	UBERON:0001013	adipose tissue
+mesenchymal stem cell of adipose	CL:0002570	adipose tissue
+subcutaneous preadipocyte	CL:0002583	adipose tissue, fibroblast
+urothelium cell line	NTR:0000961	urinary bladder
+B cell	CL:0000236	blood
+Centroblast	NTR:0001233	blood
+chronic lymphocytic leukemia cell	EFO:0000095	blood
+DOHH2	EFO:0002167	blood
+erythroblast	CL:0000765	blood
+germinal center	UBERON:0010754	blood
+GM06990	EFO:0002783	blood
+GM08714	NTR:0000905	blood
+GM10248	NTR:0000907	blood
+GM10266	NTR:0000908	blood
+GM10847	NTR:0000909	blood
+GM12801	NTR:0000910	blood
+GM12812	EFO:0001155	blood
+GM12813	EFO:0001156	blood
+GM12864	NTR:0000911	blood
+GM12865	NTR:0000912	blood
+GM12866	NTR:0000912	blood
+GM12867	NTR:0000914	blood
+GM12868	NTR:0000915	blood
+GM12869	NTR:0000916	blood
+GM12870	NTR:0000917	blood
+GM12871	NTR:0000918	blood
+GM12872	EFO:0001159	blood
+GM12873	EFO:0001160	blood
+GM12874	EFO:0001161	blood
+GM12875	EFO:0001162	blood
+GM12878	EFO:0002784	blood
+GM12891	EFO:0000322	blood
+GM12892	EFO:0002786	blood
+GM13976	NTR:0000919	blood
+GM13977	NTR:0000920	blood
+GM15510	NTR:0000921	blood
+GM18505	NTR:0000922	blood
+GM18507	EFO:0002787	blood
+GM18526	NTR:0000923	blood
+GM18951	NTR:0000924	blood
+GM19099	NTR:0000926	blood
+GM19193	NTR:0000927	blood
+GM19238	EFO:0002788	blood
+GM19239	EFO:0002789	blood
+GM19240	EFO:0002790	blood
+GM20000	NTR:0000928	blood
+helper T-lymphocyte	CL:0000899	blood
+hematopoietic cell	BTO:0000574	blood
+hematopoietic multipotent progenitor cell	CL:0000837	blood
+HL-60	EFO:0002793	blood
+Jurkat	EFO:0002796	blood
+K562	EFO:0002067	blood
+Karpas-422	NTR:0000552	blood
+LOUCY	NTR:0000549	blood
+MM.1S	NTR:0000558	blood
+monocyte	NTR:0000896	blood
+mononuclear cell	CL:0000842	blood
+naive B cell	CL:0000788	blood
+naive blood-derived CD4-positive alpha-beta T cell	NTR:0000738	blood
+NB4	EFO:0002798	blood
+Oci-Ly-1	NTR:0000553	blood
+Oci-Ly-3	NTR:0000555	blood
+Oci-Ly-7	NTR:0000554	blood
+peripheral blood	NTR:0000903	blood
+RAJI cell	EFO:0002324	blood
+regulatory T-lymphocyte	NTR:0000897	blood
+SUDHL6	EFO:0002357	blood
+T-cell acute lymphoblastic leukemia cell	EFO:0000209	blood
+T-helper 0 cell	NTR:0000743	blood
+T-helper 1 cell	CL:0000545	blood
+T-lymphocyte	NTR:0000901	blood
+Th2-cell	NTR:0000893	blood
+umbilical cord blood cell	NTR:0000888	blood
+bladder microvascular endothelial cell	NTR:0000717	blood vessel
+brain microvascular endothelial cell	NTR:0000891	blood vessel
+brain vascular pericyte	NTR:0000930	blood vessel
+dermal microvascular endothelial cell	NTR:0000725	blood vessel
+dermis blood vessel endothelial cell	NTR:0000725	blood vessel
+dermis lymphatic vessel endothelial cell	NTR:0000726	blood vessel
+dermis microvascular lymphatic vessel endothelial cell	NTR:0000727	blood vessel
+endothelial cell of coronary artery	NTR:0000729	blood vessel
+lung microvascular endothelial cell	NTR:0000737	blood vessel
+pericyte cell	CL:0000669	blood vessel
+vascular endothelial cell	NTR:0000725	blood vessel
+CMK	EFO:0003037	bone element
+HS-27A	NTR:0000701	bone element
+HS-5	NTR:0000931	bone element
+MG63	EFO:0002234	bone element
+osteoblast	CL:0000062	bone element
+osteosarcoma cell	EFO:0002869	bone element
+SJSA1	EFO:0002330	bone element
+U2OS	EFO:0002869	bone element
+UCH-1	EFO:0004389	bone element
+A172	EFO:0002101	brain, nervous system
+astrocyte	CL:0000127	brain, nervous system
+BE2C	EFO:0002114	brain, nervous system
+D341Med	EFO:0002157	brain, nervous system
+D721Med	NTR:0001049	brain, nervous system
+Daoy	NTR:00001201	brain, nervous system
+glioblastoma multiforme	EFO:0000519	brain, nervous system
+H4	EFO:0002184	brain, nervous system
+H54	EFO:0002782	brain, nervous system
+M059J	NTR:0001053	brain, nervous system
+medulloblastoma cell line	EFO:0002939	brain, nervous system
+PFSK-1	EFO:0005234	brain, nervous system
+SH-SY5Y cell	EFO:0002717	brain, nervous system
+SK-N-DZ	NTR:0000571	brain, nervous system
+SK-N-MC	EFO:0002860	brain, nervous system
+SK-N-SH	EFO:0003072	brain, nervous system
+SKNSH	EFO:0003072	brain, nervous system
+U-87 MG	EFO:0005237	brain, nervous system
+breast	UBERON:0000310	mammary gland
+MCF-10A cell	EFO:0001200	mammary gland
+MCF-7	EFO:0001203	mammary gland
+T47D	EFO:0001247	mammary gland
+articular chondrocyte of knee joint	NTR:0000716	cartilage element
+HT-1080	EFO:0002059	connective tissue
+epithelial cell of nasal part of viscerocranial mucosa	CL:0002648	ecto-epithelial mucosa
+BG02-hESC	NTR:0001093	embryonic structure
+definitive endoderm	UBERON:0005439	embryonic structure
+embryonic stem cell	CL:0002322	embryonic structure
+H1-hESC	EFO:0003042	embryonic structure
+H7-hESC	NTR:0000837	embryonic structure
+H9-hESC	NTR:0000838	embryonic structure
+HTR-8/SVneo	NTR:0000957	embryonic structure
+notochord	EFO:0004389	embryonic structure
+trophoblast	CL:0000351	embryonic structure
+BJ	EFO:0002779	skin of body, fibroblast
+fibroblast of foreskin 	NTR:0000934	skin of body, fibroblast
+foreskin fibroblast	CL:1001608	skin of body, fibroblast
+NT2/D1 cell	EFO:0005236	gonad
+OVCAR-3	EFO:0003061	gonad
+cardiac mesoderm	UBERON:0007005	heart
+Caki2	EFO:0002150	kidney
+G401	EFO:0002179	kidney
+G401.6	NTR:0000981	kidney
+HEK293	EFO:0001182	kidney
+RCC_7860	NTR:0000962	kidney
+RPTEC	NTR:0000740	kidney
+Caco-2	EFO:0001099	large intestine
+HCT116	EFO:0002824	large intestine
+HT-29	EFO:0001193	large intestine
+hepatic endoderm	NTR:0000561	liver
+HepG2	EFO:0001187	liver
+HuH-7 cell	NTR:0000880	liver
+TTC549	NTR:0000984	liver
+A549	EFO:0001086	lung
+bronchoalveolar stem cell	BTO:0001245	lung
+fibroblast of lung	CL:0002553	lung, fibroblast
+IMR-90	EFO:0001196	lung, fibroblast
+NCI-H460	EFO:0003044	lung
+pulmonary interstitial fibroblast	CL:0002241	lung, fibroblast
+WI38	EFO:0001260	lung, fibroblast
+A673	EFO:0002106	musculature
+myoblast	CL:0000056	musculature
+myometrium	NTR:0000892	musculature
+SJCRH30	NTR:0000557	musculature
+striated muscle cell	CL:0000737	musculature
+uterine smooth muscle cell	CL:0002601	musculature
+bipolar spindle neuron	NTR:0000560	nervous system
+olfactory neurospheres	NTR:0000982	olfactory neuroepithelium
+8988T	NTR:0000890	pancreas
+HPDE6-E6E7	NTR:0000929	pancreas
+PANC1	EFO:0002713	pancreas
+pancreatic duct	NTR:0000929	pancreas
+Parathyroid adenoma	NTR:0001226	parathyroid
+LNCaP clone FGC	NTR:0000702	prostate gland
+PC-3	EFO:0002074	prostate gland
+prostate gland epithelium	EFO:0002323	prostate gland
+RPWE-1	NTR:0001052	prostate gland
+WERI-Rb-1	NTR:0000887	eye
+periodontal ligament fibroblast	NTR:0000935	skeletal ligament, fibroblast
+A204.1	NTR:0000983	skeletal muscle
+LHCN-M2 cell	NTR:0000889	skeletal muscle
+myotube	CL:0002372	skeletal muscle
+skeletal muscle cell	CL:0000188	skeletal muscle
+skeletal muscle myoblast	CL:0000515	skeletal muscle
+skeletal muscle tissue	UBERON:0001134	skeletal muscle
+A375	EFO:0002103	skin of body
+COLO829	EFO:0002140	skin of body
+fibroblast of arm	NTR:0000559	skin of body, fibroblast
+fibroblast of pedal digit skin	NTR:0000732	skin of body, fibroblast
+fibroblast of skin of abdomen	NTR:0000733	skin of body, fibroblast
+fibroblast of upper leg skin	NTR:0000734	skin of body, fibroblast
+HGPS cell	NTR:0000735	skin of body, fibroblast
+melanocyte	NTR:0000886	skin of body
+melanoma cell line	EFO:0002140	skin of body
+RPMI-7951 cell	NTR:0000900	skin of body
+SK-MEL-5	NTR:0000570	skin of body
+ACC112	NTR:0000556	gonad
+ECC-1 cell	EFO:0005231	uterus
+endometrium	UBERON:0001295	uterus
+HeLa-S3	EFO:0002791	uterus
+Ishikawa	NTR:0000885	uterus
+uterus	UBERON:0000995	uterus
+induced pluripotent stem cell	EFO:0004905	iPS cell
+neural cell	CL:0002319	nervous system
+penis	UBERON:0000989	penis
